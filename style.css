@@ -409,7 +409,6 @@ hr {
         height: 100vh;
         margin: 2rem 1rem;
         padding: 2rem;
-        overflow: hidden;
     }
     .title {
          margin-top: 16em;
