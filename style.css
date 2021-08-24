@@ -407,8 +407,9 @@ hr {
         flex-direction: column;
         text-align: center;
         height: 100vh;
-        margin-bottom: 6rem;
+        margin: 2rem 1rem;
         padding: 2rem;
+        overflow: hidden;
     }
     .title {
          margin-top: 16em;
