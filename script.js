@@ -26,7 +26,7 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 
-
+*/
 const labels = document.querySelectorAll('.form-control label')
 
 labels.forEach(label => {
@@ -37,7 +37,7 @@ labels.forEach(label => {
       .join('')
 });
 
-*/
+
 
 // Automatic Slideshow
 
