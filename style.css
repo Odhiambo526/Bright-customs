@@ -407,7 +407,7 @@ hr {
         justify-content: center;
         flex-direction: column;
         text-align: center;
-        height: 100vh;
+        height: 100%;
         margin-bottom: 6rem;
         padding: 2rem;
     }
