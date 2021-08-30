@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=STIX+Two+Text:ital@1&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=STIX+Two+Text:ital@1&display=swap');
 
 * {
     box-sizing: border-box;
@@ -150,7 +150,7 @@ hr {
     border-radius: 2px;
     opacity: .7;
 }
-*/
+*//*
 
 @media only screen and (max-width: 480px) {
     .header-content p {
@@ -196,14 +196,14 @@ hr {
     width: 100%;
 }
 
-/* Slideshow container */
+/* Slideshow container *//*
 .slideshow-container {
   max-width: 700px;
   position: relative;
   margin: auto;
 }
 
-/* Next & previous buttons */
+/* Next & previous buttons *//*
 .prev, .next {
   cursor: pointer;
   position: absolute;
@@ -219,18 +219,18 @@ hr {
   user-select: none;
 }
 
-/* Position the "next button" to the right */
+/* Position the "next button" to the right *//*
 .next {
   right: 0;
   border-radius: 3px 0 0 3px;
 }
 
-/* On hover, add a black background color with a little bit see-through */
+/* On hover, add a black background color with a little bit see-through *//*
 .prev:hover, .next:hover {
   background-color: rgba(0,0,0,0.8);
 }
 
-/* Caption text */
+/* Caption text *//*
 .mySlides .text {
   color: #f2f2f2;
   font-size: 15px;
@@ -241,7 +241,7 @@ hr {
   text-align: center;
 }
 
-/* Number text (1/3 etc) */
+/* Number text (1/3 etc) *//*
 .numbertext {
   color: #f2f2f2;
   font-size: 12px;
@@ -250,7 +250,7 @@ hr {
   top: 0;
 }
 
-/* The dots/bullets/indicators */
+/* The dots/bullets/indicators *//*
 .dot {
   cursor: pointer;
   height: 15px;
@@ -266,7 +266,7 @@ hr {
   background-color: #717171;
 }
 
-/* Fading animation */
+/* Fading animation *//*
 .fade {
   -webkit-animation-name: fade;
   -webkit-animation-duration: 1.5s;
@@ -416,7 +416,7 @@ hr {
     }
 }
 
-/* --------------Form------------------ */
+/* --------------Form------------------ *//*
 
 .container {
     background-color: rgba(0, 0, 0, 0.4);
@@ -514,7 +514,7 @@ hr {
     display: none;
 }
 
-/*---------------FORM---------*/
+/*---------------FORM---------*//*
 
 .media {
     margin-top: 4em;
@@ -599,7 +599,7 @@ hr {
   to {opacity: 1}
 }
 
-/* On smaller screens, decrease text size */
+/* On smaller screens, decrease text size *//*
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
 }
